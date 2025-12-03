@@ -1,0 +1,16 @@
+# Ignore compiled iPython checkpoint
+.ipynb_checkpoints/
+
+# Ignore csv files
+*.csv
+*.png
+*.pkl
+
+# Ignore IDE-specific files (e.g., VS Code)
+
+
+#Ignore OS-specific files (e.g., macOS)
+
+
+# Ignore node_modules for Node.js projects
+        
