@@ -3,8 +3,13 @@
 
 # Ignore csv files
 *.csv
-*.png
+
 *.pkl
+
+
+# ignore DS_store 
+.DS_Store
+icd_map/.DS_Store
 
 # Ignore IDE-specific files (e.g., VS Code)
 
